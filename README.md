@@ -1,5 +1,9 @@
 
 
+## History
+* 2014-05-18  创建博客
+* 2014-05-18 23:24:32 Using [lenage](https://github.com/lenage/lenage.github.com)Jekyll theme.Thank you for lenage!
+
 ## Licence and Copyright
 
 Following files, directories and their contents are copyright Tate Johnson. You may not reuse anything therein without my permission:
@@ -11,4 +15,4 @@ Following directories and their contents are licensed under the [Creative Common
 
 * _posts/
 
-All other files and directories are licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) unless explicitly stated. If you do use them, a link back to http://blog.lenage.com would beappreciated but is not required.
+All other files and directories are licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) unless explicitly stated.
