@@ -1,7 +1,7 @@
 
 
 ## History
-* 2014-05-18  创建博客
+* 2014-05-18  create
 * 2014-05-18 23:24:32 Using [lenage](https://github.com/lenage/lenage.github.com)Jekyll theme.Thank you for lenage!
 
 ## Licence and Copyright

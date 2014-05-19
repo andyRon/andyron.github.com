@@ -17,14 +17,14 @@ theme:
     hacker_news: andyron
     #stackexchange: 348619
     #stackoverflow: 348619
-    twitter: heyuan
+    #twitter: heyuan
     #facebook: zuck
     #tumblr: animalygifs
     #linkedin: philipjagielski
     #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
-  name: Andy Ron
+  name: andyron
   email: randy.njfu@gmail.com
   tagline: "stay hungry"
 
